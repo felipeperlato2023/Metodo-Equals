@@ -1,0 +1,15 @@
+C:\Users\Felipe\Desktop\PROJETOS\EqualsGhc\EqualsGhc\bin\Debug\net6.0\EqualsGhc.exe
+C:\Users\Felipe\Desktop\PROJETOS\EqualsGhc\EqualsGhc\bin\Debug\net6.0\EqualsGhc.deps.json
+C:\Users\Felipe\Desktop\PROJETOS\EqualsGhc\EqualsGhc\bin\Debug\net6.0\EqualsGhc.runtimeconfig.json
+C:\Users\Felipe\Desktop\PROJETOS\EqualsGhc\EqualsGhc\bin\Debug\net6.0\EqualsGhc.dll
+C:\Users\Felipe\Desktop\PROJETOS\EqualsGhc\EqualsGhc\bin\Debug\net6.0\EqualsGhc.pdb
+C:\Users\Felipe\Desktop\PROJETOS\EqualsGhc\EqualsGhc\obj\Debug\net6.0\EqualsGhc.csproj.AssemblyReference.cache
+C:\Users\Felipe\Desktop\PROJETOS\EqualsGhc\EqualsGhc\obj\Debug\net6.0\EqualsGhc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Desktop\PROJETOS\EqualsGhc\EqualsGhc\obj\Debug\net6.0\EqualsGhc.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\PROJETOS\EqualsGhc\EqualsGhc\obj\Debug\net6.0\EqualsGhc.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\PROJETOS\EqualsGhc\EqualsGhc\obj\Debug\net6.0\EqualsGhc.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\PROJETOS\EqualsGhc\EqualsGhc\obj\Debug\net6.0\EqualsGhc.dll
+C:\Users\Felipe\Desktop\PROJETOS\EqualsGhc\EqualsGhc\obj\Debug\net6.0\refint\EqualsGhc.dll
+C:\Users\Felipe\Desktop\PROJETOS\EqualsGhc\EqualsGhc\obj\Debug\net6.0\EqualsGhc.pdb
+C:\Users\Felipe\Desktop\PROJETOS\EqualsGhc\EqualsGhc\obj\Debug\net6.0\EqualsGhc.genruntimeconfig.cache
+C:\Users\Felipe\Desktop\PROJETOS\EqualsGhc\EqualsGhc\obj\Debug\net6.0\ref\EqualsGhc.dll
